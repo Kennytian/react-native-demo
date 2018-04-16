@@ -1,6 +1,11 @@
 # React Native Demo
 
-## Used packages
+## Installation
+1. `git clone https://github.com/Kennytian/react-native-demo.git`
+2. `cd react-native-demo & yarn install`
+3. `react-native run-ios`
+
+## Dependencies
 
 - prop-types
 - react
@@ -9,6 +14,9 @@
 - eslint
 - pre-commit
 - jest
+
+## Screen record
+![default](https://user-images.githubusercontent.com/2621619/38786756-82e992a0-40ef-11e8-9edb-61458ef02234.gif)
 
 ## Change Log
 

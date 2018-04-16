@@ -82,7 +82,7 @@ export default class LaunchPage extends PureComponent {
     return (
       <View style={styles.container}>
         <TouchableOpacity style={styles.wrapper} onPress={this.goToHomePage}>
-          <Text allowFontScaling={false} style={styles.text}>跳过</Text>
+          <Text allowFontScaling={false} style={styles.text}>skip</Text>
           <Text allowFontScaling={false} style={styles.second}>{secText}</Text>
         </TouchableOpacity>
 
